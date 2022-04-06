@@ -7,5 +7,5 @@ spring:
     name: cloud-provider-payment
   cloud:
     zookeeper:
-      connect-string: 192.168.60.8:2181
+      connect-string: 192.168.60.8:2181      #台式机虚拟机地址
  
